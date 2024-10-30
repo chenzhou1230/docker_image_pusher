@@ -1,1 +1,5 @@
 minio/minio:latest
+watchtower：latest
+mysql:8.0.12
+nginx:latest
+redis:latest
