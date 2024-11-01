@@ -1,3 +1,1 @@
-linuxserver/radarr
-sonarr/sonarr
 containrrr/watchtower
