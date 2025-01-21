@@ -1,1 +1,1 @@
-paopaofish/datagear
+paopaofish/datagear:5.2.0
