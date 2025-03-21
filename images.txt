@@ -1,2 +1,1 @@
-odoo:16
-postgres:14
+francescou/docker-compose-ui
