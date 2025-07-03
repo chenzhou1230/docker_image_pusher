@@ -1,1 +1,1 @@
-francescou/docker-compose-ui
+stirlingtools/stirling-pdf
