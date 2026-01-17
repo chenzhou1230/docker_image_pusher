@@ -1,1 +1,1 @@
-FlareSolverr
+ghcr.io/flaresolverr/flaresolverr:latest
