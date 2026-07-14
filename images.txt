@@ -1,1 +1,1 @@
-mondedie/flarum
+ghcr.io/frepple/frepple:9.17.0
