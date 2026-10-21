@@ -1,1 +1,1 @@
-InvenTree/InvenTree
+inventree/inventree
