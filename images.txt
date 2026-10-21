@@ -1,1 +1,1 @@
-inventree/inventree
+mariadb:11.8.6
