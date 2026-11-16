@@ -1,1 +1,1 @@
-axllent/mailpit:v1.21
+elasticsearch:8.17.0
