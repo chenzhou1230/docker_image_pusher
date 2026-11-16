@@ -1,2 +1,2 @@
-elasticsearch
+mcp/elasticsearch:8.17.0
 
